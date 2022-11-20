@@ -7,6 +7,7 @@ It can be used in sensors , GPS , in senarios where you you loose the signals fo
 Here in this figure, range nes are the real data points and Green ones are the predcitons by using Klamna Filter. 
 
 Credit goes to pysource
+https://pysource.com/2021/11/02/kalman-filter-predict-the-trajectory-of-an-object/
 
 
 
